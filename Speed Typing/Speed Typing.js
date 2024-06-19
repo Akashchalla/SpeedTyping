@@ -6,7 +6,7 @@ let userentered = document.getElementById('quoteInput');
 let result = document.getElementById('result');
 let spinnerEl = document.getElementById("spinner");
 
-function nachi() {
+function akash() {
     spinnerEl.classList.remove("d-none");
     let options = {
         method: "GET"
